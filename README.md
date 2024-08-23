@@ -1,1 +1,1 @@
-<img src=./img/templete>
+<img src=./img/templete.png>
