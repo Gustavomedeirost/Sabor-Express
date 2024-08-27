@@ -1,4 +1,4 @@
 # SABOR-EXPRESS
 
-## 🔨 Funcionalidades do projeto
-O objetivo é explorar conceitos essenciais, tais como sintaxe, entrada de dados, principais convenções e estruturas de dados, sempre seguindo as boas práticas da comunidade e do mercado.
+## 🔨 Project features
+The goal is to explore essential concepts, such as syntax, data entry, main conventions and data structures, always following the best practices of the community and the market.
